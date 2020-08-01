@@ -1,4 +1,4 @@
 {
-  "fileUris": ["https://raw.githubusercontent.com/ankitjet/customiz/master/install_web.sh1?token=AQGJSHSWFMHY7D5DMSPDCZS7EW43M"],
+  "fileUris": ["https://raw.githubusercontent.com/ankitjet/customiz/master/install_web.sh1"],
   "commandToExecute": "./install_web.sh1"
 }
